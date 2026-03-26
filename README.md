@@ -10,7 +10,7 @@
   <a href="https://t.me/SebasNeuron">
     <img src="https://img.shields.io/badge/Telegram-@SebasNeuron-2AABEE?style=flat&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/kakamajo_btc">
+  <a href="https://twitter.com/sebasneuron">
     <img src="https://img.shields.io/badge/Twitter-@sebasneuron-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
