@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <h2 align="center">
-  Senior Full‑Stack • Blockchain • AI Engineer
+  Senior Full‑Stack • Blockchain • AI Engineer @solana @ethereum @bitcoin @sui @cardano smart contract, web3 engineer
+trading bot developer, casino game developer.
 </h2>
 
 <p align="center">
