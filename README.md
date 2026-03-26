@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h2 align="center">
-  @solana @ethereum @bitcoin @sui @cardano smart contract, web3 developer trading bot developer, casino game developer.
+  solana ethereum bitcoin sui cardano smart contract developer, web3 developer trading bot developer, casino game developer.
 </h2>
 
 <p align="center">
